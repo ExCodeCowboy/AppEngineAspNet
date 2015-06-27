@@ -2,3 +2,4 @@ runtime: custom
 vm: true
 health_check:
   enable_health_check: False
+api_version: 1

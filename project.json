@@ -18,7 +18,7 @@
         "Microsoft.AspNet.StaticFiles": "1.0.0-*"
     },
     "commands": {
-        "kestrel": "Microsoft.AspNet.Hosting --server Kestrel --server.urls http://localhost:8080"
+        "kestrel": "Microsoft.AspNet.Hosting --server Kestrel --server.urls http://alpine-alpha-677.appspot.com:8080"
     },
     "frameworks": {
         "dnx451": { },
